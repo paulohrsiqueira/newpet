@@ -1,0 +1,23 @@
+Requisitos funcionais e não funcionais.
+
+Requisitos funcionais:
+Sistema deve permitir cadastro de usuário
+Sistema deve permitir cadastro do animal
+Sistema deve conter localização do animal
+Sistema deve notificar baixa de produtos vendidos na loja
+Sistema deve informar numéro de banhos e tosas
+Sistema deve informar disponibilidade de produtos na loja
+Sistema deve emitir nota fiscal
+Sistema deve armazenar os dados
+Sistema deve informar com qual funcinário o pet está
+Sistema deve permitir cadastro de serviços
+Sistema deve permitir cadastro de estoque
+Sistema deve informar disponibilidade de funcionários
+Sistema deve gravar ocorrencias no log
+
+
+Requisitos não funcionais:
+Sistema de login separado para funcionários
+Sistema desenvolvido em java
+Sistema funcionando em IOS e Android
+Aplicativo abrir em menos de 5 segundos
